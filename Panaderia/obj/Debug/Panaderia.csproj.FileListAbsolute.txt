@@ -1,0 +1,14 @@
+C:\Users\juanm\source\repos\Panaderia\Panaderia\bin\Debug\Panaderia.exe.config
+C:\Users\juanm\source\repos\Panaderia\Panaderia\bin\Debug\Panaderia.exe
+C:\Users\juanm\source\repos\Panaderia\Panaderia\bin\Debug\Panaderia.pdb
+C:\Users\juanm\source\repos\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.AssemblyReference.cache
+C:\Users\juanm\source\repos\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.SuggestedBindingRedirects.cache
+C:\Users\juanm\source\repos\Panaderia\Panaderia\obj\Debug\Panaderia.Properties.Resources.resources
+C:\Users\juanm\source\repos\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.GenerateResource.cache
+C:\Users\juanm\source\repos\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.CoreCompileInputs.cache
+C:\Users\juanm\source\repos\Panaderia\Panaderia\obj\Debug\Panaderia.exe
+C:\Users\juanm\source\repos\Panaderia\Panaderia\obj\Debug\Panaderia.pdb
+C:\Users\juanm\source\repos\Panaderia\Panaderia\obj\Debug\Panaderia.Venta.resources
+C:\Users\juanm\source\repos\Panaderia\Panaderia\obj\Debug\Panaderia.Producto.resources
+C:\Users\juanm\source\repos\Panaderia\Panaderia\obj\Debug\Panaderia.Cliente_Zona.resources
+C:\Users\juanm\source\repos\Panaderia\Panaderia\obj\Debug\Panaderia.Menu.resources
